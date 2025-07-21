@@ -1,5 +1,5 @@
 # Recursos en línea sobre GeoAI en la Gestión de Riesgos y Desatres Naturales
-Listado de recursos en línea para la enseñanza (o con potencial) de la GeoAI en la gestión de riesgos y desatres naturales, empleando software libre y de código abierto.
+Listado de recursos en línea para (o con potencial para) la enseñanza de la GeoAI en la gestión de riesgos y desastres naturales, empleando software libre y de código abierto.
 
 ## Listado Maestro
 La tabla se genera a partir de los datos del siguiente documento maestro:
