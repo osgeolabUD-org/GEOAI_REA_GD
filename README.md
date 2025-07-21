@@ -9,9 +9,9 @@ https://docs.google.com/spreadsheets/d/1GcZxheo2LKdq1qRhYqMUnmnv48qHiAl6Hvnl3LWf
 Si desea contribuir por favor enviar un correo a: osgeolab@udistrital.edu.co
 
 ## Autores
-Paulo César Coronado
-Leny Valentina Cruz Ruiz 
-Valentina Aponte Carvajal 
+* Paulo César Coronado
+* Leny Valentina Cruz Ruiz 
+* Valentina Aponte Carvajal 
 
 ## Motivación
 El semillero de investigación OSGeoLABUD surge para  promover el desarrollo, aplicación y enseñanza de las geociencias en un ecosistema de métodos, estándares, datos y tecnologías abiertas. El semillero tiene carácter multidisciplinario e integra docentes y estudiantes pertenecientes a varios proyectos curriculares y grupos de investigación. Desde su génesis, el grupo ha tenido el apoyo de The Open Source Geospatial Foundation, quien ha registrado la iniciativa como un laboratorio en incubación.
